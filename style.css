@@ -1,0 +1,110 @@
+.heading {
+    margin: auto;
+    width: 13%;
+    margin-top: 10%;
+}
+
+h1 {
+    color: darkred;
+    font-size: 50px;
+    font-family: fantasy;
+    border-bottom: 7px #adcd3f solid;
+    font-style: italic;
+}
+
+input[type="text"] {
+    width: 96%;
+    height: 25px;
+    border: 2px darkred solid;
+    border-radius: 8px;
+
+}
+
+.text-bar {
+    margin: auto;
+    width: 30%;
+    position: relative;
+    bottom: 15px;
+}
+
+.add-button {
+    position: relative;
+    bottom: 45px;
+    margin: 0% 65%;
+}
+
+input[type="button"] {
+    height: 30px;
+    width: 65px;
+    border: 2px darkred solid;
+    border-radius: 8px;
+}
+
+input[type="button"]:hover {
+    background-color: lightgray;
+    color: darkred;
+}
+
+input[type="text"] {
+    width: 96%;
+    height: 25px;
+    border: 2px darkred solid;
+    border-radius: 8px;
+
+}
+
+.footer {
+    margin: auto;
+    width: 30%;
+    position: relative;
+    bottom: 15px;
+}
+
+.footer input[type="text"] {
+    width: 96%;
+    height: 25px;
+    border: 2px darkred solid;
+    border-radius: 8px;
+    position: relative;
+    top: 200px;
+}
+
+.edit-button {
+    position: relative;
+    bottom: 45px;
+    margin: 0% 65%;
+}
+
+.edit-button input[type="button"] {
+    height: 30px;
+    width: 65px;
+    border: 2px darkred solid;
+    border-radius: 8px;
+    position: relative;
+    top: 200px;
+}
+
+input[type="button"]:hover {
+    background-color: lightgray;
+    color: darkred;
+}
+
+.delete-button {
+    position: relative;
+    bottom: 75px;
+    margin: 0% 70%;
+}
+
+.delete-button input[type="button"] {
+    height: 30px;
+    width: 65px;
+    border: 2px darkred solid;
+    border-radius: 8px;
+    position: relative;
+    top: 200px;
+}
+
+input[type="button"]:hover {
+    background-color: lightgray;
+    color: darkred;
+}
